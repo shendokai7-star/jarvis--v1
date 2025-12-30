@@ -1,0 +1,86 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "joke",
+    "user_input": ["tell" ,"me", "a joke", "I","need" ,"laugh", "make" ,"laugh"],
+    "bot_response": "Sure, here a joke for you: Why don't scientists trust atoms? Because they make up everything!",
+    "required_words": ["joke"]
+  },
+  {
+    "response_type": "gratitude",
+    "user_input": ["thank you", "thanks a lot", "much appreciated"],
+    "bot_response": "You're welcome! I'm glad I could help.",
+    "required_words": []
+  },
+  {
+    "response_type": "help",
+    "user_input": ["help", "need","assistance", "can","you","help","me"],
+    "bot_response": "Of course! I'm here to help. What do you need assistance with?",
+    "required_words": []
+  },
+  {
+    "response_type": "news",
+    "user_input": ["what", "happening", "in" ,"the","world", "tell", "me", "the", "latest","news", "any" ,"interesting","headlines"],
+    "bot_response": "Let me fetch the latest news for you...",
+    "required_words": ["news"]
+  },
+  {
+    "response_type": "clarification",
+    "user_input": ["I","don't","understand","can" ,"that","again","do","you","mean" ,"by","that"],
+    "bot_response": "I apologize for the confusion. Let me explain it differently...",
+    "required_words": []
+  },
+  {
+    "response_type": "abilities",
+    "user_input": ["can","you","do","are","capabilities", "tell","me","about" ,"your","features"],
+    "bot_response": "I can provide information, answer questions, make recommendations, and engage in casual conversation.",
+    "required_words": []
+  },
+  {
+    "response_type": "motivation",
+    "user_input": ["I","need","some","motivation", "inspire","me", "can", "you" ,"share" ,"a","motivational" ,"quote"],
+    "bot_response": "Sure! Here a motivational quote for you: 'Believe you can and you're halfway there.' - Theodore Roosevelt",
+    "required_words": ["motivation"]
+  },
+  {
+    "response_type": "quote",
+    "user_input": ["give","me" ,"a","quote", "share" ,"an","inspirational","quote", "I","need","some" ,"words" ,"of","wisdom"],
+    "bot_response": "Certainly! Here an inspirational quote: 'The only way to do great work is to love what you do.' - Steve Jobs",
+    "required_words": ["quote"]
+  }
+]

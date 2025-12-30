@@ -1,0 +1,53 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","start","launch","visit"
+            ],
+            "responses":["open"
+            ]
+        },
+        {
+            "tag":"send",
+            "patterns":["send","whatsapp","message","send whatsapp"
+            ],
+            "responses":["whatsapp"
+            ]
+        },
+        {
+            "tag":"News",
+            "patterns":["news","News.","Today's News.","news."
+            ],
+            "responses":["News"
+            ]
+        },
+        {
+            "tag":"note",
+            "patterns":["notepad","Note.","Notepad.","open Notepad.","open notepad"
+            ],
+            "responses":["note"
+            ]
+        },
+        {
+            "tag":"ip",
+            "patterns":["my ip address","Ip","internet address.","ip."
+            ],
+            "responses":["ip address"
+            ]
+        },
+        {
+            "tag":"play song",
+            "patterns":["play song","Play music","play the music"," drop the beat "
+            ],
+            "responses":["play music"
+            ]
+        },
+        {
+            "tag":"pause music",
+            "patterns":["Pause music","stop music","pause music","stop the music"
+            ],
+            "responses":["stop the music"
+            ]
+          }
+    ]    
+}

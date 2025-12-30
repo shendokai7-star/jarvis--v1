@@ -1,0 +1,27 @@
+Q: what is a chatbot
+Q: what is the purpose of chatbots
+Q: how do chatbots simulate human behavior
+Q: what is the Turing test
+Q: who coined the term "ChatterBot"
+Q: how are chatbots accessed
+Q: what are some usage categories of chatbots
+Q: what is Conversational AI
+Q: what were the early chatbots
+Q: what was ELIZA's key method of operation
+Q: why are humans ready to interpret computer output as conversational
+Q: what advantages do chatbot-style techniques have in interactive systems
+Q: what are some chatbot competitions
+Q: where do many companies run their chatbots
+Q: what messaging apps are commonly used for chatbots
+Q: how many bots were created for Facebook Messenger in the first six months
+Q: what are some industries that have used chatbots
+Q: what percentage of companies used chatbots in 2017
+Q: what is the predicted integration rate of chatbots in client applications by 2020
+Q: what are some potential advantages of using chatbots in banking
+Q: what is the Hello Barbie doll
+Q: how has IBM's Watson computer been used in chatbot-based educational toys
+Q: what are some chatbot development platforms
+Q: what is the purpose of API in chatbot development
+Q: how have chatbots been maliciously used
+Q: what controversy was caused by the AI chatbot Tay on Twitter
+Q: what are some examples of malicious uses of chatbots
