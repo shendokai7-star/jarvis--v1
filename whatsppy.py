@@ -4,9 +4,7 @@ import webbrowser
 from Body.speak2 import Speak
 import pyautogui
 
-ListWeb = {'brother': "+919395293936",
-           'dost': "+919876543210",
-           'pote': '+911234567890'}
+ListWeb = {'pote': '+911234567890'}
 
 def WhatsappSender(Name):
     if Name not in ListWeb:
@@ -27,5 +25,6 @@ def WhatsappSender(Name):
         
     except:
         print("Failed to send message")
+
 
 
